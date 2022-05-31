@@ -1,12 +1,12 @@
 {
   "name": "discord-bots",
   "version": "1.0.0",
-  "description": "Does it all",
-  "main": "main.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Barzdoe",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.7.0",
